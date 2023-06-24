@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.3.1"
+  },
+  "dependencies": {
+    "@types/jwk-to-pem": "^2.0.1",
+    "aws-sdk": "^2.1403.0",
+    "aws-xray-sdk": "^3.5.0",
+    "axios": "^1.4.0",
+    "jsonwebtoken": "^9.0.0",
+    "middy": "^0.36.0",
+    "uuid": "^9.0.0"
+  }
+}
